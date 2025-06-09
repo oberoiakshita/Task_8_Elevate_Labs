@@ -1,0 +1,26 @@
+The objective of this task is to understand the role of VPNs in protecting privacy and secure communication while identifying and removing suspicious browser extensions that may compromise security.
+
+Steps Taken
+1. VPN Setup
+Chosen VPN Client: Selected ProtonVPN free tier as the VPN service.
+Account Creation: Signed up for a free account on the ProtonVPN website.
+Installation: Downloaded and installed the ProtonVPN client on my device.
+2. Connecting to VPN
+Server Selection: Connected to the closest available VPN server.
+IP Address Verification:
+Before connecting, my original IP address was noted.
+After connecting, I verified my new IP address using whatismyipaddress.com.
+3. Browsing with VPN
+Website Browsing: Browsed various websites to confirm that traffic was encrypted.
+Speed Comparison: Disconnected the VPN and compared browsing speed and IP address before and after the connection.
+4. Identifying Suspicious Browser Extensions
+Browser Inspection: Opened the browser's extension manager to review installed extensions.
+Suspicious Extensions: Identified and removed extensions that were unfamiliar or had excessive permissions.
+5. Research on VPN Features
+Encryption and Privacy: Researched common VPN encryption protocols (e.g., OpenVPN, WireGuard) and their privacy features.
+Limitations: Gained insights into the limitations of VPNs, including the fact that they do not guarantee complete anonymity.
+Deliverables
+Report: A detailed report describing the VPN setup steps, connection status, and findings on browser extensions.
+Screenshots: Included screenshots showing the VPN connection status and the changed IP address.
+Conclusion
+This task provided hands-on experience with VPNs and enhanced my understanding of privacy tools. I learned the importance of securing my browsing environment by removing suspicious extensions and the role of VPNs in protecting online privacy.
